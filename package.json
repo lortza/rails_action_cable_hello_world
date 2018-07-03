@@ -1,5 +1,7 @@
 {
   "name": "rails_action_cable_hello_world",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
